@@ -1,5 +1,4 @@
 """
-Test Code
 Simple Interactive Chatbot in Python.
 No external libraries required - runs with standard Python!
 """
